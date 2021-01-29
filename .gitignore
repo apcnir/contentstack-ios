@@ -2,8 +2,6 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
-ContentstackTest/SyncTest.m
-
 ## Build generated
 Build/
 build/
@@ -13,7 +11,7 @@ Pods
 Pods/
 ContentstackTest/TestResult/
 .DS_Store
-
+config.json
 ## Various settings
 *.pbxuser
 !default.pbxuser
